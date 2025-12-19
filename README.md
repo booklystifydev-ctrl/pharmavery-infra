@@ -1,5 +1,11 @@
 # pharmavery-infra
-PharmaVery Infrastructure
-Infrastructure as Code and deployment configs.
 
-Status: Bootstrap
+Infraestructura y despliegue de PharmaVery.
+
+## Stack
+- Docker
+- Terraform
+- Cloud provider (pendiente de definir)
+
+## Estado
+🚧 En desarrollo
